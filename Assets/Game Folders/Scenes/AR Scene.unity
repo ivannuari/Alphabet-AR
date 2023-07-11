@@ -19486,6 +19486,33 @@ MonoBehaviour:
   - {fileID: 1751060423}
   - {fileID: 649806639}
   - {fileID: 249297270}
+  allClips:
+  - {fileID: 8300000, guid: b45e0f89f86f1e14686e08098b7b5096, type: 3}
+  - {fileID: 8300000, guid: 75964d27e05886044a261a2540da5220, type: 3}
+  - {fileID: 8300000, guid: 7e9616b4c95ac88479ff0f1c2bd78a90, type: 3}
+  - {fileID: 8300000, guid: 0ad3a96312678dc48beb57c2e35631ac, type: 3}
+  - {fileID: 8300000, guid: 1c7773c4cd4e55247acba7b32401278b, type: 3}
+  - {fileID: 8300000, guid: 2d57344af48890a438df254d1528dfeb, type: 3}
+  - {fileID: 8300000, guid: 1b717660a680e2e48b211acc34959fa3, type: 3}
+  - {fileID: 8300000, guid: 5c3bed1e654c0f247926a07578906d9b, type: 3}
+  - {fileID: 8300000, guid: 67454e7619a046c448dd7168de93b710, type: 3}
+  - {fileID: 8300000, guid: 1bdf8f3721cc0464987a1c36184480b4, type: 3}
+  - {fileID: 8300000, guid: adaffb28d3253514588d4016da2cc157, type: 3}
+  - {fileID: 8300000, guid: cbf4ee4ec5ad99143b8a98d91f992d40, type: 3}
+  - {fileID: 8300000, guid: ba8ade3f5e0588d46add6cb15e44b95d, type: 3}
+  - {fileID: 8300000, guid: 9218ba437aa541c4586ef819bc98340a, type: 3}
+  - {fileID: 8300000, guid: 447ba1a3677650242a223cbcdded2f0a, type: 3}
+  - {fileID: 8300000, guid: b908c2fc633e5114ebbdb19f30b832cd, type: 3}
+  - {fileID: 8300000, guid: abe0551be1329e6489c68bd092199970, type: 3}
+  - {fileID: 8300000, guid: 149dd74b6f929274c81a2ec3c2ad261a, type: 3}
+  - {fileID: 8300000, guid: 7c1609aa8be34104487dd53cd846bba5, type: 3}
+  - {fileID: 8300000, guid: a30fb0a97af92b746889bb5708d4ceec, type: 3}
+  - {fileID: 8300000, guid: 56c099beb4e0e0543974ba631b18604c, type: 3}
+  - {fileID: 8300000, guid: 3111001022f19644096e8184601894ec, type: 3}
+  - {fileID: 8300000, guid: 4540cc39d8d29ab419210b411cb183ca, type: 3}
+  - {fileID: 8300000, guid: 7a98095b30f16c94fb2d6fcb01647d5f, type: 3}
+  - {fileID: 8300000, guid: 2673f9925cc7f9b46a86e8389f29183c, type: 3}
+  - {fileID: 8300000, guid: 2c70085b62a5f9d4395587795c820aba, type: 3}
 --- !u!21 &2000683659
 Material:
   serializedVersion: 8

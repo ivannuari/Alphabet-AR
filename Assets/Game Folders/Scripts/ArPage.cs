@@ -7,15 +7,21 @@ public class ArPage : Page
     [SerializeField] private Button b_home;
 
     [SerializeField] GameObject[] allObjects;
+    [SerializeField] AudioClip[] allClips;
+
+    private AudioSource source;
 
     private void Start()
     {
+        source = GetComponent<AudioSource>();
+
         b_home.onClick.AddListener(() => ChangeScene("Main Menu"));
     }
 
     public void OnTrack(int huruf)
     {
-        
+        source.clip = allClips[huruf];
+        source.Play();
     }
 
     public void OnLostTrack()
