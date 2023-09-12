@@ -16,6 +16,7 @@ public class ArPage : Page
         source = GetComponent<AudioSource>();
 
         b_home.onClick.AddListener(() => ChangeScene("Main Menu"));
+        AudioManager.Instance.HentikanSuara("BGM");
     }
 
     public void OnTrack(int huruf)

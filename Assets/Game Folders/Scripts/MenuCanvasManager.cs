@@ -8,6 +8,7 @@ public class MenuCanvasManager : CanvasManager
     private void Start()
     {
         GameManager.Instance.OnStateChange += Instance_OnStateChange;
+        AudioManager.Instance.MainkanSuara("BGM");
     }
 
     private void OnDisable()
